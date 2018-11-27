@@ -1,0 +1,12 @@
+1
+
+Kobe:PERSON
+
+Details:OTHER
+
+:( iMessage:OTHER
+
+BME:ORGANIZATION
+
+tmrw:OTHER
+
